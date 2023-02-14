@@ -1,4 +1,4 @@
-package factory;
+package factory.simpleFactory;
 
 public interface ICourse {
     public void record();
