@@ -1,7 +1,7 @@
 package factory.abstactfactorry;
 
-import factory.simpleFactory.ICourse;
-import factory.simpleFactory.JavaCourse;
+import factory.ICourse;
+import factory.JavaCourse;
 
 
 public class JavaCourseFactory implements ICourseFactory {

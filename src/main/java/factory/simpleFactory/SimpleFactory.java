@@ -1,5 +1,8 @@
 package factory.simpleFactory;
 
+import factory.ICourse;
+import factory.JavaCourse;
+
 import java.util.Calendar;
 
 public class SimpleFactory {

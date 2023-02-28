@@ -1,6 +1,6 @@
 package factory.simpleFactory;
 
-import factory.simpleFactory.ICourse;
+import factory.ICourse;
 
 public class CourseFactory {
     public ICourse create(Class clzz) {

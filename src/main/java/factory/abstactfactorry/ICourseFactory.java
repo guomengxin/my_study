@@ -1,7 +1,7 @@
 package factory.abstactfactorry;
 
-import factory.simpleFactory.ICourse;
-
+import factory.ICourse;
+//要求所有的子工厂都实现
 public interface ICourseFactory {
     ICourse createCourse();
 

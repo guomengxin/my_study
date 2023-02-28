@@ -1,6 +1,6 @@
 package test;
 
-import singleton.lazy.ExectorThread;
+import designMode.singleton.lazy.ExectorThread;
 
 public class LazySingletonTest {
     public static void main(String[] args) {
