@@ -31,6 +31,7 @@ public class AmazingSequence {
     }
 
     public static void amazingSequence(int n , int[] sequence ){
+
         if(n<0){
             System.out.println("Error in input");
             return;
